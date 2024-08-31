@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Angle-Controller-React/static/css/main.e54afe0a.css",
+    "main.js": "/Angle-Controller-React/static/js/main.b192fc1c.js",
+    "static/js/453.3b49880d.chunk.js": "/Angle-Controller-React/static/js/453.3b49880d.chunk.js",
+    "index.html": "/Angle-Controller-React/index.html",
+    "main.e54afe0a.css.map": "/Angle-Controller-React/static/css/main.e54afe0a.css.map",
+    "main.b192fc1c.js.map": "/Angle-Controller-React/static/js/main.b192fc1c.js.map",
+    "453.3b49880d.chunk.js.map": "/Angle-Controller-React/static/js/453.3b49880d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e54afe0a.css",
+    "static/js/main.b192fc1c.js"
+  ]
+}
